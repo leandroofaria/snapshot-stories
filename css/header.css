@@ -1,0 +1,36 @@
+.carousel-item {
+    height: 80vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.navbar-brand {
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+
+.navbar-brand:hover {
+    color: whitesmoke;
+}
+
+#navbar-container {
+    font-size: 1.5rem;
+    background-color: rgb(0, 0, 0);
+}
+
+#funciona{
+    padding: 0px;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: rgb(253, 125, 125);
+}
